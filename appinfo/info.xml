@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<info>
+	<id>oc-app-theme</id>
+	<name>Themed OwnCloud</name>
+	<description>This App provides an OwnCloud theme.</description>
+	<licence>AGPL</licence>
+	<author>Philipp Schaffrath</author>
+	<version>0.0.1</version>
+	<dependencies>
+		<owncloud min-version="9.2" max-version="9.2" />
+	</dependencies>
+	<namespace>Theme</namespace>
+</info>
